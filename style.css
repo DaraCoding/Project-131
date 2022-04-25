@@ -1,0 +1,28 @@
+body{
+    background-size: cover;
+}
+
+#backwards{
+    float: left;
+    width: 150px;
+    border-radius: 15px;
+    border-color: black;
+    margin-left: 10px;
+}
+
+#forwards{
+    float: right;
+    width: 150px;
+    border-radius: 15px;
+    border-color: black;
+    margin-right: 10px;
+}
+
+.light{
+    border-radius: 75px;
+    height: fit-content;
+    background-color: white;
+    color: black;
+    font-size: large;
+    padding-bottom: 25px;
+}
